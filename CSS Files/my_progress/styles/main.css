@@ -54,3 +54,21 @@ figure {
 li {
     margin-bottom: 5px;
 }
+
+caption {
+    font-size: 27px;
+    margin-top: 40px;
+    text-align: left;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+th {
+    text-align: left;
+    padding-right: 30px;
+}
+
+td {
+    padding-right: 30px;
+    padding-top: 10px;
+}
